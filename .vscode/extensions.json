@@ -7,4 +7,5 @@
 		"ms-toolsai.jupyter",
 		"janisdd.vscode-edit-csv"
 	]
-}
+}python -m pip install pip -r requirements.txt --user
+python -pip install pip -r requirements.txt --user
